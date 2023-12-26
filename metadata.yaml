@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26786'
     url: http://www.gutenberg.org/2009/agents/26786
     wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: archival
+  image_path: 72181-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamilton, Edmond
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26787
     wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72181#Sunfire
 gutenberg_issued: '2023-11-20'
 identifiers:
   gutenberg: '72181'
